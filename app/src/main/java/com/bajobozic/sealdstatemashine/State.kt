@@ -1,4 +1,4 @@
-package com.example.sealdstatemashine
+package com.bajobozic.sealdstatemashine
 
 import android.content.Context
 import android.util.Log

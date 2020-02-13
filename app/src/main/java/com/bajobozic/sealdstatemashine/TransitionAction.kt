@@ -1,4 +1,4 @@
-package com.example.sealdstatemashine
+package com.bajobozic.sealdstatemashine
 
 interface TransitionAction {
     fun firstAction()
